@@ -1,5 +1,5 @@
 # ML_Intern
-DengAI: Disease spread prediction
+DengAI: Disease spread prediction (DrivenData Competition)
 
 Achieved a rank of 197 in 6790 participants on the leaderboard.
 
